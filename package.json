@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "doug",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "botbuilder-azure": "^3.0.2",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0",
+    "js-base64": "^2.1.9",
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
+  }
+}
