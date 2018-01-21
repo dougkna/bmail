@@ -100,7 +100,6 @@ function listLabels(auth, callback) {
     if (labels.length == 0) {
       console.log('No labels found.');
     } else {
-      //console.log('Labels:');
       var i = 0;
       var labelList = [];
       while (i < labels.length) {
